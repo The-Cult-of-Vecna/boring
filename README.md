@@ -1,3 +1,5 @@
+[![Rust](https://github.com/The-Cult-of-Vecna/boring/actions/workflows/rust.yml/badge.svg)](https://github.com/The-Cult-of-Vecna/boring/actions/workflows/rust.yml)
+
 # boring
 
 [![crates.io](https://img.shields.io/crates/v/boring.svg)](https://crates.io/crates/boring)
